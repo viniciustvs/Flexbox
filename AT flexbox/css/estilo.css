@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+.menu {
+    display: flex;
+    background-color: #3474e6;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    height: 10%;
+}
+
+.e1 {
+    
+}
+
+.e2 {
+    display: flex;
+}
+
+.e2 li {
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.e2 a{
+    text-decoration: none;
+    color: black;
+}
+
+.topo {
+    height: 400px;
+    background-color: #0151cc;
+}
+
+.baixo {
+    height: 500px;
+    background-color: hsl(202, 100%, 45%);
+}

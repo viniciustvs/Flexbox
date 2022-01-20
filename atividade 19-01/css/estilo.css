@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+.topo {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: brown;
+}
+
+
+.caixa{
+    width: 25%;
+    height: 10%;
+    /* background-color: yellow; */
+    /* text-align: center; */
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    font-size: 5em;
+}
+
+/* @media (min-width: 900px){
+    
+} */
+
+@media (max-width: 400px){
+    .caixa {
+        font-size: 2em !important;
+    }
+}
+
+@media (max-width: 700px){
+    .caixa {
+        font-size: 4em !important;
+    }
+}
+
+.e1 {
+    background-color: yellow;
+}
+
+.e2 {
+    background-color: purple;
+    height: 20%;
+}
+
+.tt {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.tt div{
+    width: 50%;
+    text-align: center;
+    
+}
+
+.e3 {
+    background-color: orange;
+}
+
+.e4 {
+    background-color: black;
+}
+
+.e5 {
+    background-color: gray;
+}
+
+.e6 {
+    background-color: pink;
+}
+
