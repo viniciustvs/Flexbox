@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
 
 .menu {
     display: flex;
@@ -7,14 +8,20 @@
     align-content: center;
     justify-content: center;
     height: 10%;
+    font-size:1.5em;
+    font-weight: 700; 
+    font-family: 'PT Serif', serif;
 }
 
 .e1 {
+    color: white;
     
 }
 
 .e2 {
     display: flex;
+    margin-left: 800px;
+    
 }
 
 .e2 li {
@@ -25,15 +32,82 @@
 
 .e2 a{
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 .topo {
     height: 400px;
     background-color: #0151cc;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.box {
+    
+}
+
+.a1 {
+    width: 40%;
+    text-align: left;
+    
+}
+
+.a2 {
+    
+    
+}
+
+.b2 {
+    
+}
+
+.tt {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.tt div{
+    width: 14%;
+    text-align: center;
+    border: 14px solid rgb(26, 253, 253);
+    margin: 7px;
+    height: 55px;
+    border-radius: 10px;
+    
+}
+
+.box h2 {
+    color: white;
+    font-size: 48px;
+    align-items: center;
+    justify-content: center;
+}
+
+.box p {
+    color: white;
 }
 
 .baixo {
     height: 500px;
     background-color: hsl(202, 100%, 45%);
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
 }
+
+.c1 {
+    margin: 10px;
+    border-radius: 15px;
+    color: white;
+    background-color: blue;
+    width: 150px;
+    padding: 70px;
+}
+
