@@ -1,0 +1,211 @@
+@charset "UTF-8";
+
+body {
+    padding-top: 100px;
+    background: black;
+}
+.main {
+    color: white;
+    border-radius: 20px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    box-shadow: 0px 0px 24px #222;
+    
+    
+    
+}
+
+.a1 {
+    background-color: black;
+    text-align: center;
+    width: 90%;
+    padding-top: 20px;
+    margin: 0 auto;
+}
+
+.topo {
+    font-size: 2rem;
+}
+
+.menu {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: rgb(39, 38, 38);
+    width: 100%;
+    flex-wrap: nowrap;
+}
+
+.global {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: black;
+    width: 100%;
+    flex-wrap: nowrap;
+    text-align: center;
+
+}
+
+.menu{
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+}
+
+.globalb {
+    width: 50%;
+}
+
+.b1 {
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+}
+
+.globalc {
+    width: 33.3%;
+}
+
+.c1 {
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+}
+
+.globald {
+    width: 25%;
+}
+
+.d1 {
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+}
+
+.globale {
+    width: 100%;
+}
+
+.e1 {
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+    width: 8%;
+}
+
+.e2 {
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+    width: 92%;
+}
+
+.globalf {
+    width: 100%;
+}
+
+.f1 {
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+    width: 16%;
+}
+
+.f2 {
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+    width: 84%;
+}
+
+.globalg {
+    width: 100%;
+}
+
+.g1 {
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+    width: 24%;
+}
+
+.g2 {
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+    width: 76%;
+}
+
+.globalh {
+    width: 100%;
+}
+
+.h1 {
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+    width: 32%;
+}
+
+.h2 {
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+    width: 68%;
+}
+
+.globali {
+    width: 100%;
+}
+
+.i1 {
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+    width: 40%;
+}
+
+.i2 {
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+    width: 60%;
+}
+
+.globalj {
+    width: 100%;
+}
+
+.j1 {
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+}
+
+.j2 {
+    border-radius: 50px;
+    background-color: rgb(36, 35, 35);
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+}
