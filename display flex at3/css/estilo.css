@@ -8,17 +8,17 @@ body {
     color: white;
 }
 
-.global {
+.global1 {
     background-color: violet;
     color: white;
     display:flex;
     justify-content: center;
     align-items: center;
     align-content: center;
-   
+    border-radius: 20px;
     width: 100%;
     flex-wrap: nowrap;
-    text-align: center;
+    
 }
 
 .globala {
@@ -34,4 +34,149 @@ body {
     margin: 5px;
 }
 
+.global2 {
+    background-color: violet;
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    border-radius: 20px;
+    width: 100%;
+    flex-wrap: nowrap;
+    
+}
 
+.globalb {
+    width: 100%;
+}
+
+.b1 {
+    background-color: blue;
+    width: 20%;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.b2 {
+    background-color: gray;
+    width: 40%;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.b3 {
+    background-color: blue;
+    width: 20%;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.b4 {
+    background-color: blue;
+    width: 20%;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.global3 {
+    background-color: violet;
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    border-radius: 20px;
+    width: 100%;
+    flex-wrap: nowrap;
+    
+}
+
+.globalc {
+    width: 100%;
+}
+
+.c1 {
+    background-color: blue;
+    width: 28%;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 5px;    
+}
+
+.c2 {
+    background-color: grey;
+    width: 16%;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.c3 {
+    background-color: blue;
+    width: 28%;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.c4 {
+    background-color: blue;
+    width: 28%;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.global4 {
+    background-color: violet;
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    border-radius: 20px;
+    width: 100%;
+    flex-wrap: nowrap;
+    
+}
+
+.globald {
+    width: 100%;
+}
+
+.d1 {
+    background-color: blue;
+    width: 16%;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.d2 {
+    background-color: grey;
+    width: 52%;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.d3 {
+    background-color: blue;
+    width: 16%;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.d4 {
+    background-color: blue;
+    width: 16%;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 5px;
+}

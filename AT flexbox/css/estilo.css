@@ -15,7 +15,7 @@
 
 .e1 {
     color: white;
-    
+    transition: 0.7s all;
 }
 
 .e2 {
@@ -76,8 +76,8 @@
     width: 14%;
     text-align: center;
     border: 14px solid rgb(26, 253, 253);
-    margin: 7px;
-    height: 55px;
+    margin: 6px;
+    height: 50px;
     border-radius: 10px;
     
 }
@@ -102,12 +102,46 @@
     justify-content: center;
 }
 
-.c1 {
-    margin: 10px;
+.tetris {
+    margin: 40px;
     border-radius: 15px;
     color: white;
-    background-color: blue;
-    width: 150px;
-    padding: 70px;
+    background-color: #0a51cc;
+    width: 190px;
+    padding: 25px;
 }
 
+.e2 a {
+    transition: 0.7s all;
+}
+
+.e2 a:hover {
+    background-color: white;
+    color: black;
+    border-radius: 25px;
+    transition: 0.7s all;
+}
+
+.e1:hover {
+    color: rgb(221, 221, 221);
+    transition: 0.7s all;
+}
+
+.a1:hover {
+    transform: rotate(360deg);
+    transition: 0.7s all;
+}
+
+.tetris:hover {
+    transform: rotate(360deg);
+    transition: 0.7s all;
+}
+
+.baixo {
+    transition: 0.7s all;
+}
+
+.baixo:hover {
+    background-color: black;
+    transition: 0.7s all;
+}

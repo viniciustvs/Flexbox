@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+body {
+    background: black;
+}
+.caixas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    text-align: center;
+}
+
+.a1 {
+    width: 25%;
+    background-color: rgb(60, 60, 185);
+    margin: 5px;
+    padding: 5px;
+    padding-bottom: 300px;
+}
+
+.a2 {
+    width: 15%;
+    background-color: rgb(60, 60, 185);
+    margin: 5px;
+    padding: 5px;
+    padding-bottom: 300px;
+}
+
+.a3 {
+    width: 60%;
+    background-color: rgb(60, 60, 185);
+    margin: 5px;
+    padding: 5px;
+    padding-bottom: 300px;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    text-align: center;
+}
+
+.b1 {
+    width: 55%;
+    background-color: aquamarine;
+    margin: 4px;
+    padding: 10px;
+    padding-bottom: 15px;
+    transition: 0.7s all;
+}
+
+.b2 {
+    width: 35%;
+    background-color: aquamarine;
+    margin: 4px;
+    padding: 10px;
+    padding-bottom: 15px;
+    transition: 0.7s all;
+}
+
+.b3 {
+    width: 10%;
+    background-color: aquamarine;
+    margin: 4px;
+    padding: 10px;
+    padding-bottom: 15px;
+    transition: 0.7s all;
+}
+
+.b1:hover{
+    background-color: orange;
+    transition: 0.7s all;
+}
+
+.b2:hover{
+    background-color: purple;
+    transition: 0.7s all;
+}
+
+.b3:hover:hover{
+    background-color: pink;
+    transition: 0.7s all;
+}
