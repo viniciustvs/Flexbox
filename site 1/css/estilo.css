@@ -1,0 +1,92 @@
+@charset "UTF-8";
+
+body{
+    background:#202126 ;
+}
+
+.menu{
+    color: white;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    height: 10%;
+    font-size:1em;
+    font-weight: 700; 
+    font-family: 'PT Serif', serif;
+}
+
+.e1 {
+    font-size: 2em;
+    
+}
+
+.e2 {
+    margin-left: 31% ;
+    transition: 0.7s all;
+}
+
+.e2 li {
+    padding: 5px;
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.e2 a{
+    text-decoration: none;
+    color: white;
+    transition: 0.7s all;
+}
+
+.e2 a:hover {
+    padding: 10px;
+    background-color: #4455eb ;
+    transition: 0.7s all;
+}
+
+.topo {
+    color: white;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    height: 60%;
+    padding-top: 325px;
+    font-size:1em;
+    font-weight: 700; 
+    font-family: 'PT Serif', serif;
+}
+
+.box h2{
+    font-size: 50px;
+}
+
+.a1 {
+    margin-right: 18%;
+    width: 19%;
+}
+
+.a1 li {
+    
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.a1 a{
+    text-decoration: none;
+    color: white;
+    transition: 0.7s all;
+}
+
+.a1 a:hover {
+    padding: 15px;
+    background-color: #4455eb ;
+    transition: 0.7s all;
+
+
+
+
+/* #212227 cor do body */
+/* #4455eb cor dos botoes */
