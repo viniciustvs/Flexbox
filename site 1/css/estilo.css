@@ -84,9 +84,11 @@ body{
     padding: 15px;
     background-color: #4455eb ;
     transition: 0.7s all;
+}
 
+.main {
+    text-align: center;
+    color: ;
 
+}
 
-
-/* #212227 cor do body */
-/* #4455eb cor dos botoes */
